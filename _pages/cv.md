@@ -21,6 +21,10 @@ Education
 
 Work experience
 ======
+* Incoming Fall intern @ Tesla autopilot team
+
+* Incoming Summer intern @ Nvidia mapping team
+
 * Delta Research Center, Software Engineer Intern (Jul. 2020 - Aug. 2020)
   * Designed a pipeline for robotic arms with a camera to track multiple faces in real time with OpenCV library
   * Implemented Haar-cascade and HOG object detection algorithm and compared their runtime and accuracy

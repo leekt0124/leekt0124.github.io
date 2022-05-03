@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I am Kuan-Ting Lee"
+title: "Hello, I am Kuan-Ting Lee [This site is still under construction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
