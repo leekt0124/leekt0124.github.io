@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I am Kuan-Ting Lee [This site is still under construction"
+title: "Hello, I am Kuan-Ting Lee [Disclaimer: This site is still under construction]"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Kuan-Ting Lee, currently a robotics MS student at the University of Michigan. I am interested in the field of robot perception and its application on autonomous vehicles and robots.
+I am Kuan-Ting Lee, currently a robotics MS student at the University of Michigan. I am interested in the field of robot perception and its application on autonomous vehicles.
 
 A data-driven personal website
 ======

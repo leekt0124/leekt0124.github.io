@@ -25,24 +25,26 @@ Work experience
 
 * Incoming Summer intern @ Nvidia mapping team
 
-* Delta Research Center, Software Engineer Intern (Jul. 2020 - Aug. 2020)
+* Software Engineer Intern @ Delta Research Center, Delta Electronics (Jul. 2020 - Aug. 2020)
   * Designed a pipeline for robotic arms with a camera to track multiple faces in real time with OpenCV library
   * Implemented Haar-cascade and HOG object detection algorithm and compared their runtime and accuracy
   * Reduced tracking latency by 50% by implementing multithreading techniques and a modified PD controller
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research experience
+======
+* Graduate student researcher @ Biped Robotics Laboratory, Univeristy of Michigan
+  * Worked on the localization pipeline for Cassie, the biped robot, using topometric map and lidar measurement
+  * Extracted and Analyzed road and sidewalk feature from a Velodyne Lidar using PCL library in a ROS system
+  * Replaced the bus stops generation process with agglomeratively hierachical clustering algorithm
+
+* Undergraduate student researcher @ Microrobotics Laboratory, University of Toronto
+  * Constructed an automatic pipeline to acquire 1500 measurements of magnetic fields within 30 mins for microrobots
+  * Implemented interior-point algorithms in MATLAB to reduce the average magnetic field model errors by 50 %
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C/C++, Python, MATLAB, LabVIEW
+* Software Tools: ROS, Git, OpenCV, PyTorch, Simulink, Raspberry Pi, Arduino, Docker
 
 Publications
 ======
