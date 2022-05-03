@@ -11,16 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, National Taiwan University, 2020
+  * GPA: 4.0/4.0
+  * Coursework: Mobile Robotics, Computer Vision, Robotics System Laboratory
+* M.S. in Robitics, University of Michigan, 2023 (expected)
+  * GPA: 4.0/4.3
+  * Exchange student at the University of Toronto, GPA: 3.96/4.0
+  * Coursework: Mobile Robotics and Perception, Robot Modeling and Control, Machine Learning
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Delta Research Center, Software Engineer Intern (Jul. 2020 - Aug. 2020)
+  * Designed a pipeline for robotic arms with a camera to track multiple faces in real time with OpenCV library
+  * Implemented Haar-cascade and HOG object detection algorithm and compared their runtime and accuracy
+  * Reduced tracking latency by 50% by implementing multithreading techniques and a modified PD controller
 
 * Fall 2015: Research Assistant
   * Github University
