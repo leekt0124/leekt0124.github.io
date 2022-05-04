@@ -16,10 +16,10 @@ location: "Ann Arbor, MI"
   * Developed an algorithm that utilizes a RGBD camera to detect blocks’ size, color, position, orientation on a board
   * Implemented Forward / Inverse Kinematics and fine-tuned a PID controller (reduced offset from 20mm to 3mm)
 
-  Pictures
-  ======
-  pics1
-  pics2
+Pictures
+======
+pics1
+pics2
 
-  Test
-  ======
+Test
+======
