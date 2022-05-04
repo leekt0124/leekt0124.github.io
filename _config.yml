@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kuan-Ting Lee / Personal website"
+title                    : "Kuan-Ting Lee"
 title_separator          : "-"
 name                     : &name "Kuan-Ting Lee"
 description              : &description "Currently a robotics student @ UMich"
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "NelsonLee0124"
   foursquare       :
-  github           : "academicpages"
+  github           : "leekt0124"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "nelsonlee0124"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "iamkuantinglee"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
