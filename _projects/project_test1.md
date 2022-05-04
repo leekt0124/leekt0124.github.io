@@ -8,7 +8,7 @@ date: 2022-5-4
 location: "Ann Arbor, MI"
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 Education
 ======
