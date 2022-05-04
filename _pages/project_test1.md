@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "Projects"
-permalink: /projects/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Test1"
+collection: projects
+type: "test1"
+permalink: /projects/test1
+venue: "hi"
+date: 2022-5-4
+location: "Ann Arbor, MI"
 ---
 
 {% include base_path %}
