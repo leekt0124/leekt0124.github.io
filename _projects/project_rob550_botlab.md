@@ -8,7 +8,12 @@ date: 2021-10-30
 location: "Ann Arbor, MI"
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
+
+A C++ based mobile robot project
+
+Detail
+======
 
 * SLAM and exploration of a mobile robot, University of Michigan (Sept. 2021 - Oct. 2021)
   * Programmed a mobile robot to perform SLAM and exploration tasks (First place in the contest out of 24 teams)
