@@ -6,11 +6,10 @@ permalink: /projects/rob550_botlab
 venue: "course project"
 date: 2021-10-30
 location: "Ann Arbor, MI"
+excerpt: "A C++ based mobile robot project"
 ---
 
 <!-- {% include base_path %} -->
-
-A C++ based mobile robot project
 
 Detail
 ======

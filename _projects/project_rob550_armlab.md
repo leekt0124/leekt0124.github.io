@@ -11,6 +11,9 @@ excerpt: "Project in ROB550 @ UMich"
 
 <!-- {% include base_path %} -->
 
+Detail
+======
+
 * **Autonomous blocks stacking robotics arm**, University of Michigan (Oct. 2021 - Dec. 2021)
   * Programmed a robotics arm to autonomously identify and manipulate blocks (**First place** in the contest out of 24 teams)
   * Conducted camera intrinsic and extrinsic calibration using OpenCV PnP solver (with 4mm maximum depth error)
