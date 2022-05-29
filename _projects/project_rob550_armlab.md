@@ -16,17 +16,3 @@ excerpt: "Project in ROB550 @ UMich"
   * Conducted camera intrinsic and extrinsic calibration using OpenCV PnP solver (with 4mm maximum depth error)
   * Developed an algorithm that utilizes a RGBD camera to detect blocks’ size, color, position, orientation on a board
   * Implemented Forward / Inverse Kinematics and fine-tuned a PID controller (reduced offset from 20mm to 3mm)
-
-Pictures
-======
-pics1
-pics2
-
-Test
-======
-
-* **Autonomous blocks stacking robotics arm**, University of Michigan (Oct. 2021 - Dec. 2021)
-  * Programmed a robotics arm to autonomously identify and manipulate blocks (**First place** in the contest out of 24 teams)
-  * Conducted camera intrinsic and extrinsic calibration using OpenCV PnP solver (with 4mm maximum depth error)
-  * Developed an algorithm that utilizes a RGBD camera to detect blocks’ size, color, position, orientation on a board
-  * Implemented Forward / Inverse Kinematics and fine-tuned a PID controller (reduced offset from 20mm to 3mm)
